@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: два или более файлов с именем FindChars.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — FindChars.cpp, FindChars.cpp.
+  ConsoleApplication1.cpp
+x64\Release\FindChars.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+     Создается библиотека D:\Учёба\C++\Практическая N7.1\ConsoleApplication1\x64\Release\ConsoleApplication1.lib и объект D:\Учёба\C++\Практическая N7.1\ConsoleApplication1\x64\Release\ConsoleApplication1.exp
+  Создание кода
+  0 of 95 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Учёба\C++\Практическая N7.1\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
